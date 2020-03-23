@@ -1,4 +1,4 @@
-# YouTubeClone
+# TecTubeAndroid
 A Native Android application developed with Java.
 The API, RecyclerView, ImageFromURL consumption classes were used in this application.
 
